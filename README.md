@@ -1,4 +1,4 @@
-# Recruiting agency data science project
+# Recruitment agency data science project
 This project goes through all of the phases of a data science project. From building a database, to creating visualization after performing different types of analysis.
 
  NOTE: In this repository, I can only share the notebook but I cannot share the postgres dump file or the PowerBI reports due to confidentiality.
